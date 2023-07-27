@@ -1,8 +1,8 @@
 # This is Riddance here
 Parameter tuning and more than parameter tuning
 
-## Leaning Scope
-- Deep Leaning
+## Learning Scope
+- Deep Learning
 - Data Science
 - Quantification
 - Python Backend
