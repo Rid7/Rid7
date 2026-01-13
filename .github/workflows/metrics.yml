@@ -1,0 +1,32 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Table-OCR repo card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: repo-cards/Table-OCR.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: Rid7/Table-OCR
+          config_display: large
+
+      - name: Generate mml repo card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: repo-cards/mml.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: Rid7/mml
+          config_display: large
