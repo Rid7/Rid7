@@ -1,26 +1,64 @@
-# This is Riddance here
-Parameter tuning and more than parameter tuning
+<div align="center">
 
-## Learning Scope
-- Deep Learning
-- Data Science
-- Quantification
-- Python Backend
+# 👋 Hi, I'm Riddance
 
-## GitHub Stats
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+**Parameter tuning and more than parameter tuning**
 
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+[![GitHub followers](https://img.shields.io/github/followers/Rid7?style=social)](https://github.com/Rid7)
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" />
-<img src="./profile-summary-card-output/github_dark/4-productive-time. svg" />
+</div>
 
-## Highlights
+---
+
+## 🎯 Learning Scope
+
+<table>
+  <tr>
+    <td>🧠 Deep Learning</td>
+    <td>📊 Data Science</td>
+  </tr>
+  <tr>
+    <td>📈 Quantification</td>
+    <td>🐍 Python Backend</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
+
+</div>
+
+---
+
+## ⭐ Highlights
+
+<div align="center">
+
 <a href="https://github.com/Rid7/Table-OCR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rid7&repo=Table-OCR&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img src="./repo-cards/Table-OCR.svg" />
 </a>
 
 <a href="https://github.com/Rid7/mml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rid7&repo=mml&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img src="./repo-cards/mml.svg" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *Always learning, always growing*
+
+</div>
