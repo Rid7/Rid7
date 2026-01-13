@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Riddance
-
-**Parameter tuning and more than parameter tuning**
-
-[![GitHub followers](https://img.shields.io/github/followers/Rid7?style=social)](https://github.com/Rid7)
+# 👋 Hi, I'm Riddance [![GitHub followers](https://img.shields.io/github/followers/Rid7?style=social)](https://github.com/Rid7)
 
 </div>
 
@@ -59,6 +55,6 @@
 
 <div align="center">
 
-💡 *Always learning, always growing*
+💡 *Parameter tuning and more than parameter tuning*
 
 </div>
