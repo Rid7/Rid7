@@ -8,13 +8,13 @@ Parameter tuning and more than parameter tuning
 - Python Backend
 
 ## GitHub Stats
-<a href="https://github.com/Rid7/Rid7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rid7&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-<a href="https://github.com/Rid7/Rid7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rid7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time. svg" />
 
 ## Highlights
 <a href="https://github.com/Rid7/Table-OCR">
